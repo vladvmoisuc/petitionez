@@ -1,0 +1,5 @@
+{
+  "jest": "Logs tested by by {{name}} on {{date}}.",
+  "otp.already-sent": "An email has already been sent with the code. ",
+  "otp.sent": "Sending the email with the code: "
+}

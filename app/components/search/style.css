@@ -1,0 +1,3 @@
+.Search .MuiInputBase-root::before {
+  content: none !important;
+}

@@ -1,0 +1,56 @@
+:root {
+  --header-height: 4rem;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+}
+
+main {
+  max-height: calc(100vh - var(--header-height) - 2rem);
+  overflow-y: auto;
+}
+
+.horizontally-centered {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.vertically-centered {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.line-clamp-2 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  background: var(--mui-palette-grey-100);
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--mui-palette-grey-300);
+}
+
+.MuiContainer-root::-webkit-scrollbar {
+  width: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  word-break: break-word;
+}

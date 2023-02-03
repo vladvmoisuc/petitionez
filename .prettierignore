@@ -1,0 +1,7 @@
+build
+coverage
+husky
+public
+.cache
+node_modules
+*.md

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should match the snapshot 1`] = `
+<div>
+  <div
+    class="Footer vertically-centered  MuiBox-root css-0"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-11cn0eh-MuiTypography-root"
+    >
+      Creat de 
+      <a
+        href="https://www.linkedin.com/in/vladmoisuc/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        un băiat.
+      </a>
+    </h6>
+  </div>
+</div>
+`;
