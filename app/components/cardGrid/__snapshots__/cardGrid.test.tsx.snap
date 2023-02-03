@@ -1,0 +1,360 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-honmcm-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/test"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/test"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card 2
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> should match the snapshot when the default element is set 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-honmcm-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/card/create"
+          tabindex="0"
+        >
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Create card
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Creating a card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/test"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/test"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card 2
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Card /> should match the snapshot when the slug redirect is false 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-honmcm-MuiGrid-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/card/create"
+          tabindex="0"
+        >
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Create card
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Creating a card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/1"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1fyyp8j-MuiGrid-root"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+      >
+        <a
+          class="MuiButtonBase-root MuiCardActionArea-root css-1rh07hw-MuiButtonBase-root-MuiCardActionArea-root"
+          href="/campaigns/2"
+          tabindex="0"
+        >
+          <img
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="300"
+            src="www.image.ro/1"
+          />
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-sd3nu6-MuiTypography-root"
+            >
+              10/10/2000
+            </h6>
+            <h1
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom line-clamp-2 css-wt7jgy-MuiTypography-root"
+            >
+              Card 2
+            </h1>
+            <p
+              class="MuiTypography-root MuiTypography-body2 line-clamp-2 css-1da0jfs-MuiTypography-root"
+            >
+              Testing the card
+            </p>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+          />
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

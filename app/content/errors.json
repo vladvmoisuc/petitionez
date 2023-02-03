@@ -1,0 +1,9 @@
+{
+  "jest": "Errors tested by by {{name}} on {{date}}.",
+  "otp": "An error has been encountered while generating the OTP code: ",
+  "unexpected": "Something went wrong: ",
+  "slug-expected": "Expected a slug,",
+  "id-expected": "Expected a id,",
+  "entity-expected": "Entity not found,",
+  "not-authorised": "The user is not authorised to perform this action."
+}

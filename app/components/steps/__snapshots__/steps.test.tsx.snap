@@ -1,0 +1,3182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Steps /> should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-active css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-active css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity1@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":r0:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 1 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity1@gmail.com?subject=Step 1&body=Step%201%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Continuă
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot when mobile content is rendered 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                1
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-active css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition MuiCollapse-entered css-1rw7nzj-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <span>
+                  Mobile only content
+                </span>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        />
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot when text is coppied to the clipboard 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  >
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-completed css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity1@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":ra:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 1 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity1@gmail.com?subject=Step 1&body=Step%201%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Continuă
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    >
+                      <span
+                        class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                        style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                      >
+                        <span
+                          class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                        />
+                      </span>
+                    </span>
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-completed css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity2@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":rc:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 2"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 2 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity2@gmail.com?subject=Step 2&body=Step%202%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finalizează
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-19kzrtu"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        Ai finalizat procesul. Felicitări pentru acțiunea întreprinsă! Dacă dorești, îți poți convinge prietenii să-ți urmeze exemplul.
+      </p>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1f5ro5o-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Copiază adresa paginii
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        >
+          <span
+            class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+            style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+          >
+            <span
+              class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+            />
+          </span>
+        </span>
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Reia procesul
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiSnackbar-root MuiSnackbar-anchorOriginBottomCenter css-1t20nyk-MuiSnackbar-root"
+      role="presentation"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardInfo MuiAlert-standard css-1fuz9qr-MuiPaper-root-MuiAlert-root"
+        direction="up"
+        role="alert"
+        style="opacity: 1; transform: scale(1, 1); transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      >
+        <div
+          class="MuiAlert-icon css-1ytlwq5-MuiAlert-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1vooibu-MuiSvgIcon-root"
+            data-testid="InfoOutlinedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20, 12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10, 10 0 0,0 12,2M11,17H13V11H11V17Z"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiAlert-message css-1pxa9xg-MuiAlert-message"
+        >
+          Conținutul a fost copiat în clipboard.
+        </div>
+        <div
+          class="MuiAlert-action css-ki1hdl-MuiAlert-action"
+        >
+          <button
+            aria-label="Close"
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-1e0d89p-MuiButtonBase-root-MuiIconButton-root"
+            tabindex="0"
+            title="Close"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-ptiqhd-MuiSvgIcon-root"
+              data-testid="CloseIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot when the flow is finished 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  >
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-completed css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity1@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":r6:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 1 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity1@gmail.com?subject=Step 1&body=Step%201%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Continuă
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    >
+                      <span
+                        class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                        style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                      >
+                        <span
+                          class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                        />
+                      </span>
+                    </span>
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    >
+                      <span
+                        class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                        style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                      >
+                        <span
+                          class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                        />
+                      </span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-completed css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity2@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":r8:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 2"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 2 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity2@gmail.com?subject=Step 2&body=Step%202%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finalizează
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-19kzrtu"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        Ai finalizat procesul. Felicitări pentru acțiunea întreprinsă! Dacă dorești, îți poți convinge prietenii să-ți urmeze exemplul.
+      </p>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1f5ro5o-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Copiază adresa paginii
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Reia procesul
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot when the last step is active 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  >
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-completed css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical Mui-completed css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-completed css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-completed css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              data-testid="CheckCircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-completed css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity1@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":r2:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 1 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity1@gmail.com?subject=Step 1&body=Step%201%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Continuă
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-active css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-active css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition css-1kkz9wg-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px; height: 0px; transition-duration: 0ms;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="Template MuiBox-root css-1yuhvjn"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="to"
+                  >
+                    Către
+                  </label>
+                  <div
+                    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1qqsdnr-MuiAutocomplete-root"
+                  >
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-32yp37-MuiFormControl-root-MuiTextField-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-l4u8b9-MuiInputBase-root-MuiInput-root"
+                      >
+                        <div
+                          class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault MuiAutocomplete-tag MuiAutocomplete-tagSizeMedium css-1012bww-MuiChip-root"
+                          data-tag-index="0"
+                          tabindex="-1"
+                        >
+                          <span
+                            class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+                          >
+                            entity2@gmail.com
+                          </span>
+                        </div>
+                        <input
+                          aria-autocomplete="list"
+                          aria-expanded="false"
+                          aria-invalid="false"
+                          autocapitalize="none"
+                          autocomplete="off"
+                          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                          id=":r4:"
+                          readonly=""
+                          role="combobox"
+                          spellcheck="false"
+                          type="text"
+                          value=""
+                        />
+                        <div
+                          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root"
+                        >
+                          <button
+                            aria-label="toggle password visibility"
+                            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                            tabindex="0"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="ContentCopySharpIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                              />
+                            </svg>
+                            <span
+                              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="subject"
+                  >
+                    Subiect
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd MuiInputBase-readOnly css-1p5mw5t-MuiInputBase-root-MuiInput-root"
+                  >
+                    <input
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                      id="subject"
+                      name="undefined.subject"
+                      readonly=""
+                      type="text"
+                      value="Step 2"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-animated css-9npbnl-MuiFormLabel-root-MuiInputLabel-root"
+                    for="message"
+                  >
+                    Mesaj
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-multiline MuiInputBase-adornedEnd MuiInputBase-readOnly css-wzif5g-MuiInputBase-root-MuiInput-root"
+                  >
+                    <textarea
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      id="message"
+                      name="undefined.message"
+                      readonly=""
+                      rows="20"
+                      style="height: 0px; overflow: hidden;"
+                    >
+                      Step 2 content
+                    </textarea>
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiInput-input MuiInputBase-inputMultiline MuiInputBase-inputAdornedEnd MuiInputBase-readOnly css-66dh3a-MuiInputBase-input-MuiInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-positionEnd css-1laqsz7-MuiInputAdornment-root"
+                    >
+                      <button
+                        aria-label="toggle password visibility"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="ContentCopySharpIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M16 1H2v16h2V3h12V1zm5 4H6v18h15V5zm-2 16H8V7h11v14z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                  <a
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1arva3s-MuiButtonBase-root-MuiButton-root"
+                    href="mailto:entity2@gmail.com?subject=Step 2&body=Step%202%20content"
+                    tabindex="0"
+                  >
+                    Trimitere
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="SendIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </a>
+                </div>
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finalizează
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-18st3fs-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Înapoi
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot with an alert when the flow is continued without filling the user details  1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                1
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-active css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition MuiCollapse-entered css-1rw7nzj-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  >
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        />
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiSnackbar-root MuiSnackbar-anchorOriginBottomCenter css-1t20nyk-MuiSnackbar-root"
+      role="presentation"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardError MuiAlert-standard css-1hdyuqk-MuiPaper-root-MuiAlert-root"
+        direction="up"
+        role="alert"
+        style="opacity: 1; transform: scale(1, 1); transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      >
+        <div
+          class="MuiAlert-icon css-1ytlwq5-MuiAlert-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1vooibu-MuiSvgIcon-root"
+            data-testid="ErrorOutlineIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiAlert-message css-1pxa9xg-MuiAlert-message"
+        >
+          Trebuie să completezi numele și adresa în formularul alăturat.
+        </div>
+        <div
+          class="MuiAlert-action css-ki1hdl-MuiAlert-action"
+        >
+          <button
+            aria-label="Close"
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-1e0d89p-MuiButtonBase-root-MuiIconButton-root"
+            tabindex="0"
+            title="Close"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-ptiqhd-MuiSvgIcon-root"
+              data-testid="CloseIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Steps /> should match the snapshot with an alert when the flow is continued without filling the user details 1`] = `
+<div>
+  <div
+    class="MuiBox-root css-178yklu"
+  >
+    <div
+      class="MuiStepper-root MuiStepper-vertical css-9tmuzo-MuiStepper-root"
+    >
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root Mui-active css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                1
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-active css-1hv8oq8-MuiStepLabel-label"
+            >
+              Completează datele personale
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        >
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiStepContent-transition MuiCollapse-entered css-1rw7nzj-MuiCollapse-root-MuiStepContent-transition"
+            style="min-height: 0px;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                </p>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Continuă
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  >
+                    <span
+                      class="css-y4cjyz-MuiTouchRipple-ripple MuiTouchRipple-ripple MuiTouchRipple-rippleVisible"
+                      style="width: 2.8284271247461903px; height: 2.8284271247461903px; top: -1.4142135623730951px; left: -1.4142135623730951px;"
+                    >
+                      <span
+                        class="MuiTouchRipple-child MuiTouchRipple-childLeaving"
+                      />
+                    </span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 1
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root css-14yr603-MuiStepContent-root"
+        />
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-vertical Mui-disabled css-1pe7n21-MuiStepConnector-root"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineVertical css-8t49rw-MuiStepConnector-line"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-vertical css-8wcvy5-MuiStep-root"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-14sza3e-MuiStepLabel-root"
+        >
+          <span
+            class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiStepIcon-root css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text css-117w1su-MuiStepIcon-text"
+                dominant-baseline="central"
+                text-anchor="middle"
+                x="12"
+                y="12"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiStepLabel-label Mui-disabled css-1hv8oq8-MuiStepLabel-label"
+            >
+              Step 2
+            </span>
+          </span>
+        </span>
+        <div
+          class="MuiStepContent-root MuiStepContent-last css-1mz1l2x-MuiStepContent-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiSnackbar-root MuiSnackbar-anchorOriginBottomCenter css-1t20nyk-MuiSnackbar-root"
+      role="presentation"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardError MuiAlert-standard css-1hdyuqk-MuiPaper-root-MuiAlert-root"
+        direction="up"
+        role="alert"
+        style="opacity: 1; transform: scale(1, 1); transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      >
+        <div
+          class="MuiAlert-icon css-1ytlwq5-MuiAlert-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1vooibu-MuiSvgIcon-root"
+            data-testid="ErrorOutlineIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiAlert-message css-1pxa9xg-MuiAlert-message"
+        >
+          Trebuie să completezi numele și adresa în formularul alăturat.
+        </div>
+        <div
+          class="MuiAlert-action css-ki1hdl-MuiAlert-action"
+        >
+          <button
+            aria-label="Close"
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-1e0d89p-MuiButtonBase-root-MuiIconButton-root"
+            tabindex="0"
+            title="Close"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-ptiqhd-MuiSvgIcon-root"
+              data-testid="CloseIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

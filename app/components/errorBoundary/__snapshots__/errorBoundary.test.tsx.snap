@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorBoundary /> should match the snapshot 1`] = `
+<div>
+  <div
+    class="css-1mak4s9-MuiStack-root"
+  >
+    <img
+      alt="logo"
+      src="/logo.svg"
+      width="200"
+    />
+    <p
+      class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom css-7ldbzu-MuiTypography-root"
+    >
+      Ceva n-a mers cum trebuie.
+    </p>
+    <div
+      class="css-1ucnu3w-MuiStack-root"
+    >
+      <a
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-sghohy-MuiButtonBase-root-MuiButton-root"
+        href="/"
+        tabindex="0"
+      >
+        Mergi la prima pagină.
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </a>
+    </div>
+  </div>
+</div>
+`;

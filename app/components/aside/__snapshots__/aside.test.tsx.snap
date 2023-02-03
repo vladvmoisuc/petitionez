@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Aside /> should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg css-1hu82mc-MuiContainer-root"
+  >
+    <div
+      class="MuiBox-root css-8kjoqe"
+    >
+      <span>
+        Test...
+      </span>
+    </div>
+  </div>
+</div>
+`;

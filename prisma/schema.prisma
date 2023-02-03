@@ -1,0 +1,56 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider          = "postgresql"
+  url               = env("DATABASE_URL")
+  shadowDatabaseUrl = env("SHADOW_DATABASE_URL")
+}
+
+model Campaign {
+  id          String     @id @default(uuid())
+  title       String
+  description String
+  slug        String     @unique
+  image       String
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  templates   Template[]
+  author      User?      @relation(fields: [authorId], references: [id])
+  authorId    String?
+}
+
+model Template {
+  id         String    @id @default(uuid())
+  title      String
+  content    String
+  campaignId String?
+  campaign   Campaign? @relation(fields: [campaignId], references: [id])
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  entities   Entity[]
+}
+
+model Entity {
+  id        String     @id @default(uuid())
+  email     String     @unique
+  url       String
+  templates Template[]
+}
+
+model User {
+  id              String     @id @default(uuid())
+  email           String     @unique
+  name            String
+  code            String?
+  admin           Boolean?   @default(false)
+  loggedAt        DateTime?
+  codeGeneratedAt DateTime?
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+  Campaign        Campaign[]
+}

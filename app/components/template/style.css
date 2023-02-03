@@ -1,0 +1,15 @@
+.MuiAutocomplete-inputRoot {
+    padding-right: 0 !important;
+}
+
+
+.Search .MuiButtonBase-root {
+    position: absolute !important;
+    right: 0 !important;
+  }
+
+
+.Template .MuiAutocomplete-root .MuiButtonBase-root {
+    position: absolute ;
+    right: 0 ;
+  }
