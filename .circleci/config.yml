@@ -34,7 +34,7 @@ jobs:
           command: npm run lint
       - run:
           name: Run tests
-          command: npm test
+          command: npm test -- --runInBand
 
 workflows:
   # Below is the definition of your workflow.
