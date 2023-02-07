@@ -52,11 +52,14 @@ users can just:
 ## DX
 
 - Components can be created using the CLI based on a template stored in the `app/templates/[*]component`
-- - Database can be seeded using the script from `prisma/seed.ts`
+- Database can be seeded using the script from `prisma/seed.ts`
 - Unit tests are run on remote using CircleCI
 - **pre-commit** and **pre-push** hooks will run `prettier`, `eslint` and `unit tests`
-- 
 
+## Hosting
+
+- fly.io 
+- supabase
 
 ## Development
 
