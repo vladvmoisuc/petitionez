@@ -34,7 +34,8 @@ exports[`<Breadcrumbs /> should match the snapshot when the pathname is nested 1
         class="MuiBreadcrumbs-li"
       >
         <a
-          href="/campaigns"
+          prefetch="intent"
+          to="/campaigns"
         >
           Campanii
         </a>

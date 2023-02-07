@@ -1,16 +1,22 @@
-import Breadcrumbs from ".";
-
 import { renderWithRouter } from "~/utils/tests";
 
-describe("<Breadcrumbs />", () => {
-  beforeAll(() => {
-    Object.defineProperty(window, "location", {
-      value: {},
-    });
-  });
+const useLocationMock = jest.fn();
 
+jest.mock("@remix-run/react", () => ({
+  useLocation: useLocationMock,
+  Link: ({ children, ...props }: { children: any }) => (
+    <a {...props}>{children}</a>
+  ),
+}));
+
+// eslint-disable-next-line import/first
+import Breadcrumbs from ".";
+
+describe("<Breadcrumbs />", () => {
   it("should match the snapshot", () => {
-    window.location.pathname = "/campaigns";
+    useLocationMock.mockReturnValue({
+      pathname: "/campaigns",
+    });
 
     const { container } = renderWithRouter(<Breadcrumbs />);
 
@@ -18,7 +24,9 @@ describe("<Breadcrumbs />", () => {
   });
 
   it("should match the snapshot when the pathname is nested", () => {
-    window.location.pathname = "/campaigns/a-cool-campaign";
+    useLocationMock.mockReturnValue({
+      pathname: "/campaigns/a-cool-campaign",
+    });
 
     const { container } = renderWithRouter(<Breadcrumbs />);
 
