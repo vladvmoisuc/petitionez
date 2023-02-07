@@ -106,6 +106,7 @@ export default function Campaign() {
         sx={{
           p: 0,
           m: 0,
+          pb: "100px",
           minWidth: {
             sx: "100%",
             md: "70%",
