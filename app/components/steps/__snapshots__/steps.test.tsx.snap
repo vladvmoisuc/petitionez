@@ -55,7 +55,7 @@ exports[`<Steps /> should match the snapshot 1`] = `
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
@@ -476,7 +476,7 @@ exports[`<Steps /> should match the snapshot when mobile content is rendered 1`]
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <span>
                   Mobile only content
@@ -660,7 +660,7 @@ exports[`<Steps /> should match the snapshot when text is coppied to the clipboa
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
@@ -1395,7 +1395,7 @@ exports[`<Steps /> should match the snapshot when the flow is finished 1`] = `
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
@@ -2080,7 +2080,7 @@ exports[`<Steps /> should match the snapshot when the last step is active 1`] = 
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
@@ -2730,7 +2730,7 @@ exports[`<Steps /> should match the snapshot with an alert when the flow is cont
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
@@ -2988,7 +2988,7 @@ exports[`<Steps /> should match the snapshot with an alert when the flow is cont
                 <p
                   class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
                 >
-                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încăt să-ți ușurăm treaba.
+                  Conform Ordonanței Guvernului nr. 27/ 2002 privind reglementarea activității de soluționare a petițiilor, fiecare solicitare trebuie să conțină datele de identificare ale petentului. Folosim aceste informații pentru completarea modelului de email, astfel încât să-ți ușurăm treaba.
                 </p>
                 <button
                   class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1mb437k-MuiButtonBase-root-MuiButton-root"
