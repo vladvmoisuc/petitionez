@@ -49,7 +49,7 @@ users can just:
 - Postgres / SQLite with Prisma
 - Material UI
 
-## DEV UX
+## DX
 
 - Components can be created using the CLI based on a template stored in the `app/templates/[*]component`
 - - Database can be seeded using the script from `prisma/seed.ts`
