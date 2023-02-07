@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-import { Link } from "@remix-run/react";
+import { Link, useLocation } from "@remix-run/react";
 import { Breadcrumbs as DefaultBreadcrumbs } from "@mui/material";
 
 import { getText } from "~/utils/functions";
@@ -10,14 +10,15 @@ import REGEXES from "~/utils/regexes";
 import type { ReactNode } from "react";
 
 export default function Breadcrumbs() {
+  const { pathname } = useLocation();
   const [routes, setRoutes] = useState([""]);
 
   useEffect(() => {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const [_, ...routes] = window.location.pathname.split("/");
+    const [_, ...routes] = pathname.split("/");
 
     setRoutes(routes);
-  }, []);
+  }, [pathname]);
 
   return (
     <DefaultBreadcrumbs aria-label="breadcrumb" sx={{ mb: 2 }}>
