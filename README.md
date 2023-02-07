@@ -1,6 +1,6 @@
 # Welcome to petitionez!
 
-- [Live Website]([purple-sky-3754.fly.dev](https://purple-sky-3754.fly.dev/))
+- [Live Website](purple-sky-3754.fly.dev)
 
 ## Description
 
@@ -117,6 +117,6 @@ Do the set-up for [fly.io](https://fly.io/docs/hands-on/install-flyctl/) and run
 fly deploy
 ```
 
-### Create a component:
+## Create a component:
 
 You can run`npm run create:component` to make a new component using one of the templates from `app/templates/[*]component`. You'll be guided in the CLI to enter a name and to choose if you want a stylesheet or not.
