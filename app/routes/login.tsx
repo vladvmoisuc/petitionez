@@ -40,6 +40,7 @@ export const loader = async ({ request }: LoaderArgs) => {
 };
 
 export const action = async ({ request }: ActionArgs) => {
+  const isProduction = process.env.NODE_ENV === "production";
   const {
     values: { email, intent, code: formCode },
   } = await getFormData(request);
@@ -53,7 +54,6 @@ export const action = async ({ request }: ActionArgs) => {
   if (!email || !REGEXES.EMAIL.test(email)) {
     return json({ ...response, error: true }, { status: 400 });
   }
-
   try {
     const { id, code, admin, codeGeneratedAt } =
       await db.user.findUniqueOrThrow({
@@ -61,11 +61,11 @@ export const action = async ({ request }: ActionArgs) => {
         select: { code: true, admin: true, codeGeneratedAt: true, id: true },
       });
 
-    if (
-      intent === INTENTS.VALIDATE &&
-      formCode?.length === 6 &&
-      formCode === code
-    ) {
+    if (intent === INTENTS.VALIDATE) {
+      if (formCode?.length !== 6 || formCode !== code) {
+        throw new Error();
+      }
+
       await db.user.update({
         where: {
           email: email.trim(),
@@ -106,12 +106,12 @@ export const action = async ({ request }: ActionArgs) => {
             email: email.trim(),
           },
           data: {
-            code: randomCode,
+            code: isProduction ? randomCode : "123456",
             codeGeneratedAt: new Date(),
           },
         });
 
-        if (process.env.NODE_ENV === "production") {
+        if (isProduction) {
           await twilio.send({
             to: email,
             type: "OTP",
@@ -137,7 +137,6 @@ export default function Login() {
     type,
     email: formEmail = "",
   } = (useActionData() as Response) ?? {};
-
   const [email, setEmail] = useState(formEmail);
   const [code, setCode] = useState("");
 
