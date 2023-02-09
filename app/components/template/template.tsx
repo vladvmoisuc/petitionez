@@ -65,7 +65,8 @@ export default function Template({
     if (!selectedEmails?.length) {
       setSelectedEmails(emails);
     }
-  }, [setSelectedEmails, selectedEmails, emails]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <Box sx={{ mt: 2 }} className="Template">
