@@ -1,6 +1,11 @@
 import { useEffect, useState } from "react";
 import { get } from "lodash";
-import { useLoaderData, useTransition, Form } from "@remix-run/react";
+import {
+  useLoaderData,
+  useTransition,
+  Form,
+  useLocation,
+} from "@remix-run/react";
 import { json, redirect } from "@remix-run/node";
 import invariant from "tiny-invariant";
 
@@ -202,12 +207,14 @@ export const action = async ({ request, params: { id } }: ActionArgs) => {
 
 export default function Campaign() {
   const [numberOfTemplates, setNumberOfTemplates] = useState(1);
-  const [isCreating, setIsCreating] = useState(false);
   const transition = useTransition();
+  const location = useLocation();
   const hasAlert = useAlert(transition);
+
   const { campaign, entities } = useLoaderData<typeof loader>();
 
   const { title, description, image, templates } = campaign ?? {};
+  const isCreating = location.pathname.split("/")[2] === SLUGS.CREATE;
 
   const handleTemplateAdd = () => {
     setNumberOfTemplates(numberOfTemplates + 1);
@@ -221,14 +228,7 @@ export default function Campaign() {
 
   useEffect(() => {
     setNumberOfTemplates(templates?.length ?? 1);
-
-    if (
-      typeof window === "object" &&
-      window.location.pathname.split("/")[2] === SLUGS.CREATE
-    ) {
-      setIsCreating(true);
-    }
-  }, [templates?.length]);
+  }, [templates]);
 
   return (
     <Stack
