@@ -1,7 +1,9 @@
 import { Box, Container } from "@mui/material";
 
+import type { ReactNode } from "react";
+
 type Props = {
-  children: JSX.Element | JSX.Element[];
+  children: ReactNode;
 };
 
 export default function UserDetails({ children }: Props) {

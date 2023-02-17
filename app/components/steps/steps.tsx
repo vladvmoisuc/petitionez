@@ -16,6 +16,8 @@ import Template from "~/components/template";
 
 import { getText } from "~/utils/functions";
 
+import type { ReactNode } from "react";
+
 import type {
   Templates as StepsType,
   CurryiedChangeHandler,
@@ -27,7 +29,7 @@ type Props = {
   user: User | undefined;
   isMobile: boolean;
   onError: (value: boolean) => void;
-  children: any;
+  children: ReactNode;
 };
 
 export default function Steps({
