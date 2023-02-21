@@ -49,8 +49,10 @@ exports[`<Breadcrumbs /> should match the snapshot when the pathname is nested 1
       <li
         class="MuiBreadcrumbs-li"
       >
-        <span>
-          A cool campaign
+        <span
+          class="ellipsis"
+        >
+          A cool campaign&!.
         </span>
       </li>
     </ol>

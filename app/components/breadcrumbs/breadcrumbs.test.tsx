@@ -25,7 +25,7 @@ describe("<Breadcrumbs />", () => {
 
   it("should match the snapshot when the pathname is nested", () => {
     useLocationMock.mockReturnValue({
-      pathname: "/campaigns/a-cool-campaign",
+      pathname: "/campaigns/a-cool-campaign&!.",
     });
 
     const { container } = renderWithRouter(<Breadcrumbs />);
