@@ -29,12 +29,14 @@ export default function Breadcrumbs() {
           return breadcrumb ? (
             <span key={route}>{breadcrumb as ReactNode}</span>
           ) : (
-            <span key={route}>
-              {route
-                .replace(REGEXES.DASHES, " ")
-                .replace(REGEXES.START_LETTER, (letter) =>
-                  letter.toUpperCase()
-                )}
+            <span key={route} className="ellipsis">
+              {decodeURIComponent(
+                route
+                  .replace(REGEXES.DASHES, " ")
+                  .replace(REGEXES.START_LETTER, (letter) =>
+                    letter.toUpperCase()
+                  )
+              )}
             </span>
           );
         }
