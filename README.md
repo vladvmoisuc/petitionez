@@ -1,6 +1,6 @@
 # Welcome to petitionez!
 
-- [Live Website](purple-sky-3754.fly.dev)
+- [Live Website](https://petitionez.ro/)
 
 ## Description
 
