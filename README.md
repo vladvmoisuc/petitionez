@@ -4,7 +4,7 @@
 
 ## Description
 
-**petitionez** is a simple tool for creating petitiones templates, which purpose is to help user that want to inform different entities about their requirements. Instead of:
+**petitionez** is a simple tool for creating email templates, whose purpose is to help user that want to inform different entities about their problems. Instead of:
 - thinking about headlines
 - writing descriptions
 - searching for government entities emails
